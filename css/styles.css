@@ -1,0 +1,36 @@
+.bg-portafolio-nav{
+    background: rgb(145, 203, 255);
+}
+
+#services{
+    text-align: center;
+    padding: 80px 0;
+    background: rgb(145, 203, 255);
+}
+
+#services h2{
+    margin-bottom: 30px;
+    
+}
+
+#about{
+    padding: 60px 0;
+}
+
+#about h2{
+    color: rgb(145, 203, 255);
+
+}
+
+#about button{
+    background: rgb(145, 203, 255);
+    border-color: black;
+}
+
+footer{
+    text-align: center;
+    margin: 15px;
+    font-size: 15px;
+
+}
+
